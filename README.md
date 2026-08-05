@@ -36,16 +36,14 @@ Install the package with the command for your host.
 For Senpi:
 
 ```bash
-senpi install git:github.com/OWNER/pi-telegram
+senpi install git:github.com/dev-wantap/pi-telegram
 ```
 
 For Oh My Pi:
 
 ```bash
-omp plugin install github:OWNER/pi-telegram
+omp plugin install github:dev-wantap/pi-telegram
 ```
-
-Replace `OWNER` with the account or organization that publishes this package.
 
 After installation, start the host and run:
 
