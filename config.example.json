@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "botToken": "123456:REPLACE_WITH_BOT_TOKEN",
+  "chatId": "123456789",
+  "botUsername": "example_bot",
+  "updatedAt": "2026-07-30T12:00:00.000Z"
+}

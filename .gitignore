@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+config.json
+*.log
+.DS_Store
+.codegraph
+.omo/
+.senpi/
+artifacts/
