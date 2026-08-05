@@ -294,13 +294,13 @@ Senpi는 `pi.extensions`를 사용하고, OMP는 `omp.extensions`와 기존 `pi.
 ### Senpi
 
 ```bash
-senpi install git:github.com/OWNER/pi-telegram
+senpi install git:github.com/dev-wantap/pi-telegram
 ```
 
 ### Oh My Pi
 
 ```bash
-omp plugin install github:OWNER/pi-telegram
+omp plugin install github:dev-wantap/pi-telegram
 ```
 
 설치 후:
