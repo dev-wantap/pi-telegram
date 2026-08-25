@@ -17,6 +17,7 @@
   ],
   "scripts": {
     "build": "bun build src/index.ts --outdir dist --target bun --format esm",
+    "prepare": "bun run build",
     "test": "bun test",
     "typecheck": "tsc --noEmit",
     "lint": "biome check ."
